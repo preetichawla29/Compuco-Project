@@ -3,7 +3,6 @@ description = A custom Drupal 7 theme using Bootstrap 5
 core = 7.x
 engine = phptemplate
 
-
 stylesheets[all][] = css/custom.css
 
 
